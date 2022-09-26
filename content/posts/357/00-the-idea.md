@@ -15,7 +15,7 @@ Your only chance to find out "What's that great song you've just heard  on the r
 
 It was in the end of 80's, when tuners with digital screens become available on the market and radio stations started to transmit song authors and titles via radio waves. Since then, it became sort of a standard to publish such info. 
 
-When internet audio streams started to be a thing, a bunch of smart people came up with an idea to add metadata to the stream. This is called ICY (I see why - I wonder if this was intended, but it actually is an acronim for `I Can Yell`) and you can learn more from this [doc site](https://cast.readme.io/docs/icy) or read this [ICT TL;DR]({{< ref "00-the-idea.md#ICY-TLDR" >}}). 
+When internet audio streams started to be a thing, a bunch of smart people came up with an idea to add metadata to the stream. This is called ICY (I see why - I wonder if this was intended, but it actually is an acronim for `I Can Yell`) and you can learn more from this [doc site](https://cast.readme.io/docs/icy) or read this [ICT TL;DR]({{< ref "00-the-idea.md#icy-tldr" >}}). 
 
 ## Idea
 
